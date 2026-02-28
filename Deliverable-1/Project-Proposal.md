@@ -4,7 +4,7 @@
 
 ---
 
-### 📚 Course Information
+###  Course Information
 
 | Field | Details |
 |---|---|
@@ -15,7 +15,7 @@
 
 ---
 
-### 👥 Student Details
+###  Student Details
 
 | | Student Name | Student Reg # | Student Degree |
 |---|---|---|---|
@@ -178,11 +178,11 @@ A **Cybersecurity Incident Management System (CIMS)** is a database-driven platf
 
 | Sprint | Tasks | Status |
 |---|---|---|
-| Sprint 1 | Project Proposal, Scope Definition, Stakeholder Identification | ✅ Completed |
-| Sprint 2 | ER Diagram, Normalization, Schema Design | ⌛ Pending |
-| Sprint 3 | SQL Scripts, CRUD Operations, Triggers, Views | ⌛ Pending |
-| Sprint 4 | Backend API, Frontend Integration | ⌛ Pending |
-| Sprint 5 | Testing, Deployment, Final Documentation | ⌛ Pending |
+| Sprint 1 | Project Proposal, Scope Definition, Stakeholder Identification | Completed |
+| Sprint 2 | ER Diagram, Normalization, Schema Design |  Pending |
+| Sprint 3 | SQL Scripts, CRUD Operations, Triggers, Views |  Pending |
+| Sprint 4 | Backend API, Frontend Integration |  Pending |
+| Sprint 5 | Testing, Deployment, Final Documentation |  Pending |
 
 ### 9.3 JIRA Workflow
 **To-Do → In Progress → Code Review → Testing → Done**
