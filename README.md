@@ -41,13 +41,23 @@ incidents ──── incident_assets ──── assets              remediat
 
 ---
 
+## Project Phases
+
+| Phase | Document | Description |
+|-------|----------|-------------|
+| **Phase 1** | [docs/phase1.md](docs/phase1.md) | Conceptual Design — requirements, ER diagram, entity & relationship descriptions, business rules, data dictionary |
+
+---
+
 ## Project Structure
 
 ```
 .
-├── schema.sql   # DDL: ENUM types, tables, indexes, views
-├── seed.sql     # DML: realistic sample data (10 analysts, 12 assets, 10 vulnerabilities, 10 incidents, …)
-└── queries.sql  # 15 analytical SQL queries (reports, aggregations, joins, subqueries)
+├── docs/
+│   └── phase1.md    # Phase 1: Requirements Analysis & ER Design
+├── schema.sql        # DDL: ENUM types, tables, indexes, views
+├── seed.sql          # DML: realistic sample data (10 analysts, 12 assets, 10 vulnerabilities, 10 incidents, …)
+└── queries.sql       # 15 analytical SQL queries (reports, aggregations, joins, subqueries)
 ```
 
 ---
