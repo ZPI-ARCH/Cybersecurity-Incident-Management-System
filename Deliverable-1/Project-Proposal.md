@@ -20,10 +20,6 @@
 | | Student Name | Student Reg # | Student Degree |
 |---|---|---|---|
 | Student-1 | Umer Wali | 2023736 | BS Cyber Security |
-| Student-2 | | | |
-| Student-3 | | | |
-| Student-4 | | | |
-
 ---
 
 ## 1. Project Title
